@@ -6,4 +6,4 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/Elainasa
 
 [<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elainasama&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=Elainasama&count_private=true&show_icons=true" height=145/></span>](https://blog.i-xiao.space/)
 
-![...](../../picture)
+<img src="picture.jpg" alt="Elaina" width="640" height="750">
